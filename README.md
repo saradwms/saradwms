@@ -1,3 +1,3 @@
 # Hello!
-
+ 
 I joined the Mote team as a Postdoctoral Researcher in 2020 shortly after finishing my Ph.D. at Northeastern University in Ecology, Evolution, and Marine Biology. For my dissertation research, I used network science and modeling combined with fieldwork and physiological experiments to attack problems facing coral reefs from multiple angles. I study the connections among polyps in a coral colony, the associations of coral species and their symbiotic algae and microbiome, and the spread of coral diseases - all under the lens of global climate change. At Mote, I will continue using innovative modeling and statistical analyses to study coral health and disease dynamics while advancing our understanding of coral reef resilience.
